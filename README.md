@@ -21,7 +21,7 @@ The project contains a single HTML file that displays:
 ## 🚀 How to Run
 
 1. Download or clone the repository
-2. Open index.html
+2. Open [this link](https://verinak.github.io/Git-Lab-1/)
 3. Run it in any web browser
 
 ## 🛠 Technologies Used
